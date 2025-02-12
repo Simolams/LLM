@@ -1,0 +1,8 @@
+try to impliment the weightless model and evaluate it into a small dataset (Done !!)
+
+
+Clean the code and devellop some analysis to evaluate the model (metrics, curves ..) (explorer des exemples mal classé, problème du modèle? ou du searchgoogle?)
+
+
+
+(max result fine tunning?)
