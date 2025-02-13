@@ -1,0 +1,16 @@
+,question,answer,answer_cleaned,QA_answers,indicateur,RAG_answers
+0,when did the first episode of breaking bad air,"['January 20, 2008']",['January 20 2008'],January 20 2008,True,January 20th
+1,how many house of cards seasons are there,['5'],['5'],6,True,6 seasons
+2,which festival is a worship of the god of power youth and youthfulness,['Karam'],['Karam'],Karam Devta,True,Karam Festival
+3,when was the first land before time made,['1988'],['1988'],1988,True,1988
+4,the chihuahua is a breed of dog believed to originate from what country,['Mexico'],['Mexico'],Mexico,True,China
+5,actor who plays steve on days of our lives,['Stephen Nichols'],['Stephen Nichols'],Stephen Nichols,True,Stephen Earl Nichols
+6,who reformed the athenian constitution into a true democracy,['Solon'],['Solon'],Cleisthenes,True,Cleisthenes
+7,what is the name of the european weather model,['Integrated Forecast System'],['Integrated Forecast System'],European Center for Medium Range Weather Forecasts,False,European Center for MediumRange Weather Forecasts
+8,where does the money from pch come from,['multi-magazine subscription business'],['multi-magazine subscription business'],PCH merchandise and magazines,False,Publishers Clearing House is a multichannel marketer and all prizes are funded by company revenues derived from partner
+9,who plays chloe valentine in be more chill,['Katlyn Carlson'],['Katlyn Carlson'],Margot Cohen,True,Jeremy Heere
+10,who was the viceroy of india when delhi became capital,['Lord Irwin'],['Lord Irwin'],Lord Irwin,True,Lord Hardinge
+11,which german state benefited most from the territorial changes made by the congress of vienna,['German Kingdoms of Hanover'],['German Kingdoms of Hanover'],Austria and Prussia,False,Prussia
+12,who sings the song everybody walk the dinosaur,['Was (Not Was)'],['Was Not Was'],Was Not Was,True,Was Not Was
+13,who is the composer of eine kleine nachtmusik,['Wolfgang Amadeus Mozart'],['Wolfgang Amadeus Mozart'],Wolfgang Amadeus Mozart,True,Wolfgang Amadeus Mozart
+14,who are the candidates running for president in mexico,"['Jaime Rodríguez Calderón', 'Andrés Manuel López Obrador', 'Ricardo Anaya Cortés', 'José Antonio Meade Kuribreña']","['Jaime Rodríguez Calderón', 'Andrés Manuel López Obrador', 'Ricardo Anaya Cortés', 'José Antonio Meade Kuribreña']",Claudia Sheinbaum,False,Women
