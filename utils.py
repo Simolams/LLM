@@ -56,6 +56,26 @@ def QA_answer(query,qa_model,best_score=False):
     return output
 
 
+def answers_index(query,answer):
+
+    """cet fonction permet de savoir si la réponse existe déja dans le contexte ou non 
+    True si answer in context false sinon
+    ça permet de mieux evaluer les modèles 
+    """
+
+    contexts = search_google(query)
+    # Create a batch of inputs
+    
+    for text in contexts : 
+        if answer in text : 
+            return True
+    
+    return False
+    
+
+
+
+
 
 
 clean  = lambda text : [txt.replace(',','').replace('(','').replace(')','').lstrip() for txt in text]
